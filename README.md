@@ -1,9 +1,9 @@
-<<<<<<< HEAD
 # Spotify-clone
 
 This is an React-JS based Spotify clone. I have used Spotify Authentication API for authentication of users. Refer to the link for authentication details...
-https://developer.spotify.com/documentation/web-playback-sdk/quick-start/
-=======
+https://developer.spotify.com/documentation/web-playback-sdk/quick-start/ <br/>
+I've used REDUX context API to dynamically change state. Material UI (MUI) is used for icons. <br/> <br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
